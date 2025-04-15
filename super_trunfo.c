@@ -4,8 +4,8 @@ int main(){
 //primeira carta
 
 char estado;
-char codigo[8];
-char NomeCidade[8];
+char codigo2[10];
+char NomeCidade[10];
 int populacao;
 float Area;
 float PIB;
@@ -13,6 +13,7 @@ int NumerosdePontosTuristicos;
 
 
 //segunda carta
+
 char estado2;
 char codigo2[8];
 char NomeCidade2[8];
